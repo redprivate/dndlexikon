@@ -1,6 +1,6 @@
 # Custom Rules
 
-For all things that are not listed below the rules of the DnD Edition 5 apply
+For all things that are not listed below the rules of DnD Edition 5 apply
 
 ### Exhaustion
 
