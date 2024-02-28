@@ -1,0 +1,88 @@
+:root {
+    --navigation-width: 15em;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: "Verdana", sans-serif;
+  }
+  
+  #content {
+    margin-left: var(--navigation-width);
+  }
+  
+  #navigation {
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+  
+    padding: 8px;
+  
+    width: var(--navigation-width);
+    height: 100dvh;
+  
+    box-sizing: border-box;
+    border-right: 2px solid black;
+  
+    background-color: white;
+  
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #navigation a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  #navigation .small {
+    margin-left: 16px;
+  }
+  
+  #navigation .big {
+    font-size: large;
+    text-decoration: underline;
+  }
+  
+  #navtoggle {
+    display: none;
+  
+    position: fixed;
+    right: 12px;
+    bottom: 12px;
+  
+    aspect-ratio: 1 / 1;
+    font-size: xx-large;
+  }
+  
+  
+  @media only screen and (max-width: 800px) {
+    #content {
+      margin: 4px;
+    }
+  
+    #navigation {
+      width: 0;
+      padding: 0;
+      align-items: center;
+      font-size: x-large;
+      text-wrap: nowrap;
+      transition: width 1s, padding 1s;
+    }
+  
+    #navigation .big {
+      font-size: xx-large;
+    }
+  
+    #navigation.open {
+      width: 100%;
+    }
+  
+    #navtoggle {
+      display: block;
+    }
+  }
