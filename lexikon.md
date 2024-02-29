@@ -159,6 +159,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 ### Session 1
 ___
+Datum: 24.0.2024
 Spieler:
 - Dave - Sherg
 - Franzi - Feithary
