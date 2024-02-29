@@ -26,9 +26,9 @@
     height: 100dvh;
   
     box-sizing: border-box;
-    border-right: 2px solid;
+    border-right: 2px solid black;
   
-    background-color: inherit;
+    background-color: white;
   
     display: flex;
     flex-direction: column;
@@ -36,7 +36,7 @@
   
   #navigation a {
     text-decoration: none;
-    color: inherit;
+    color: black;
   }
   
   #navigation .small {
