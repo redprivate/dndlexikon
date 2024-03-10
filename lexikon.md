@@ -153,6 +153,49 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
+### Armor of Agathys
+*1st-level abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (a cup of water)
+- **Duration:** 1 hour
+___
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
+
+### Cure Wounds
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+### Ensnaring Strike
+*1st-level conjuration*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+___
+The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
+
+While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.***At Higher Levels.*** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+### Faerie Fire
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+___
+Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
+
+Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
 
 
 # Session Logs
