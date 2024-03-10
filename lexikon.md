@@ -13,6 +13,22 @@ Additionally the following debuffs are granted:
 - At **exhaustion level 10** you die instantly if your hp reaches 0. You get no Death Saves
 
 
+# Session Logs
+
+### Session 1
+___
+Datum: 24.02.2024 <br>
+Spieler:
+- Dave - Sherg
+- Franzi - Feithary
+- Fynn - Trynthar
+- Felix - Olaf
+- Helena - Ivy
+- Amy - Kella Darkhope
+___
+Die beiden Barbaren Olaf und Trinta (Trindi) treffen bei einer Weggabelung auf Sherg. Da sie alle nach Night Stone wollen, gehen sie in die Richtung vor der Stadt. Dort treffen sie auf Ivy und begeben sich hinein. Dort treffen sie auf Feithary, die versucht, zwei Worgs anzulocken, doch die Wölfe greifen die Truppe an. Sie tragen zwar Schaden davon, doch besiegen die Worgs. Ivy und Sherg begeben sich Richtung Wohnhäuser, während die anderen den Krater untersuchen. Ivy will alleine sein, also schickt sie Sherg zurück und betritt eine Scheune. Sie trifft einen Goblin und begibt sich anschließend wieder zurück zu den anderen. Alle betreten eine Taverne. Dort treffen sie dann auf eine Person namens Kella, welche eine fliegende Schlange bei sich hat. Da die Gruppe keine Information von ihr bekommt, legen sich alle bis auf Ivy hin. Ivy geht aus der Stadt und trifft auf 4 Guards, welche um eine tote Frau stehen. Sie geht dann mit einem der Guards zurück in die Stadt. Es kommen 7 Leute in die Stadt, welche sich als die 7 Schlangen entpuppen. Sherg ist im Stall und sitzt auf einem gesattelten Pferd, und Feithary startet Combat gegen die 7 Schlangen mit einer Thunderwave, und Trinta hält Kella seine Klinge an den Hals.
+
+
 # Spells
 
 ### Armor of Agathys
@@ -205,19 +221,3 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
-
-
-# Session Logs
-
-### Session 1
-___
-Datum: 24.02.2024 <br>
-Spieler:
-- Dave - Sherg
-- Franzi - Feithary
-- Fynn - Trynthar
-- Felix - Olaf
-- Helena - Ivy
-- Amy - Kella Darkhope
-___
-Die beiden Barbaren Olaf und Trinta (Trindi) treffen bei einer Weggabelung auf Sherg. Da sie alle nach Night Stone wollen, gehen sie in die Richtung vor der Stadt. Dort treffen sie auf Ivy und begeben sich hinein. Dort treffen sie auf Feithary, die versucht, zwei Worgs anzulocken, doch die Wölfe greifen die Truppe an. Sie tragen zwar Schaden davon, doch besiegen die Worgs. Ivy und Sherg begeben sich Richtung Wohnhäuser, während die anderen den Krater untersuchen. Ivy will alleine sein, also schickt sie Sherg zurück und betritt eine Scheune. Sie trifft einen Goblin und begibt sich anschließend wieder zurück zu den anderen. Alle betreten eine Taverne. Dort treffen sie dann auf eine Person namens Kella, welche eine fliegende Schlange bei sich hat. Da die Gruppe keine Information von ihr bekommt, legen sich alle bis auf Ivy hin. Ivy geht aus der Stadt und trifft auf 4 Guards, welche um eine tote Frau stehen. Sie geht dann mit einem der Guards zurück in die Stadt. Es kommen 7 Leute in die Stadt, welche sich als die 7 Schlangen entpuppen. Sherg ist im Stall und sitzt auf einem gesattelten Pferd, und Feithary startet Combat gegen die 7 Schlangen mit einer Thunderwave, und Trinta hält Kella seine Klinge an den Hals.
