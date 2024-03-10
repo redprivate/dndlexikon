@@ -12,6 +12,10 @@ Additionally the following debuffs are granted:
 - At **exhaustion level 7** you loose your ability to dash
 - At **exhaustion level 10** you die instantly if your hp reaches 0. You get no Death Saves
 
+### Material Spell Components
+
+Spells with Material Components that are **not** consumed or priced can be cast without the Material Components. A arcane focus is also not needed.
+
 
 # Session Logs
 
