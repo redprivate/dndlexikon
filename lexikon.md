@@ -23,7 +23,8 @@ ___
 - **Components:** V, S, M (a cup of water)
 - **Duration:** 1 hour
 ___
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
 ### Charm Person
 *1st-level enchantment*
@@ -33,7 +34,8 @@ ___
 - **Components:** V, S
 - **Duration:** 1 hour
 ___
-You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 ### Cure Wounds
 *1st-level evocation*
@@ -43,7 +45,8 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
 ### Dancing Lights
 *Evocation cantrip*
@@ -79,7 +82,8 @@ ___
 ___
 The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
 
-While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.***At Higher Levels.*** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
+<br><br>**At Higher Levels:** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Faerie Fire
 *1st-level evocation*
@@ -101,7 +105,8 @@ ___
 - **Components:** V
 - **Duration:** Instantaneous
 ___
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
 ### Hellish Rebuke
 *1st-level evocation*
@@ -111,7 +116,8 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ___
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
 ### Heroism
 *1st-level enchantment*
@@ -121,7 +127,8 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ___
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Mage Hand
 *Conjuration cantrip*
@@ -159,7 +166,8 @@ This spell sends creatures into a magical slumber. Roll 5d8; the total is how ma
 
 Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
 
-Undead and creatures immune to being charmed aren't affected by this spell.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+Undead and creatures immune to being charmed aren't affected by this spell.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
 ### Thunderwave
 *1st-level evocation*
@@ -171,7 +179,8 @@ ___
 ___
 A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
 
-In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
+<br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Toll the Dead
 *Necromancy cantrip*
