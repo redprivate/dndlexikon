@@ -32,6 +32,18 @@ Spieler:
 ___
 Die beiden Barbaren Olaf und Trinta (Trindi) treffen bei einer Weggabelung auf Sherg. Da sie alle nach Night Stone wollen, gehen sie in die Richtung vor der Stadt. Dort treffen sie auf Ivy und begeben sich hinein. Dort treffen sie auf Feithary, die versucht, zwei Worgs anzulocken, doch die Wölfe greifen die Truppe an. Sie tragen zwar Schaden davon, doch besiegen die Worgs. Ivy und Sherg begeben sich Richtung Wohnhäuser, während die anderen den Krater untersuchen. Ivy will alleine sein, also schickt sie Sherg zurück und betritt eine Scheune. Sie trifft einen Goblin und begibt sich anschließend wieder zurück zu den anderen. Alle betreten eine Taverne. Dort treffen sie dann auf eine Person namens Kella, welche eine fliegende Schlange bei sich hat. Da die Gruppe keine Information von ihr bekommt, legen sich alle bis auf Ivy hin. Ivy geht aus der Stadt und trifft auf 4 Guards, welche um eine tote Frau stehen. Sie geht dann mit einem der Guards zurück in die Stadt. Es kommen 7 Leute in die Stadt, welche sich als die 7 Schlangen entpuppen. Sherg ist im Stall und sitzt auf einem gesattelten Pferd, und Feithary startet Combat gegen die 7 Schlangen mit einer Thunderwave, und Trinta hält Kella seine Klinge an den Hals.
 
+### Session 2
+___
+Datum: 10.03.2024 <br>
+Spieler:
+- Dave - Sherg
+- Franzi - Feithary
+- Fynn - Trynthar
+- Felix - Olaf
+- Helena - Ivy
+- Amy - Kella Darkhope
+___
+Feithary startet den Kampf mit 2 Thunderwaves und bringt damit 2 Soldaten um. Tryntha verfehlt Kella, fällt auf den Boden und befreit damit Kella. Nach den Angriffen der Soldaten werden Feithary und Ivy an den Rand des Todes gebracht. Ein paar Angriffe später holt Allasander einen blauen Trank heraus, wird dann aber von Kella in den Rücken gestochen und geht zu Boden. Daraufhin fliehen die noch lebenden Wachen, und der Kampf findet damit ein Ende. Nach dem Kampf folgt die Gruppe den Fußspuren außerhalb der Stadt. Nach einiger Zeit treffen sie auf eine mysteriöse Person, die Sherg eine Kette mit einem komischen Zeichen als Anhänger gibt. Danach setzen sie ihren Weg fort und stoßen auf eine Höhle. Feithary leuchtet die Höhle aus. Die Oger und Goblins, die in der Höhle leben, sind dadurch ziemlich verwirrt und wollen die Lichtquelle zerstören. Tryntha, Olaf und Feithary schleichen sich in die Höhle und finden schlafende Goblins vor. Die anderen Mitglieder der Gruppe entdecken eine schwarze, schleimartige Kugel, die mit der Hand durchdringbar ist, aber Schmerzen verursacht, sobald man dies tut. Sie versuchen, den Schleim zu untersuchen, und schicken Otto in die Höhle, der daraufhin verschlungen wird und den Schleim dadurch vergrößert.
 
 # Spells
 
