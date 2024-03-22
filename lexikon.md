@@ -201,6 +201,25 @@ Starting with the creature that has the lowest current hit points, each creature
 Undead and creatures immune to being charmed aren't affected by this spell.
 <br><br>**At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
+### Thaumaturgy
+*Transmutation cantrip*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Up to 1 minute
+___
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
+
+- Your voice booms up to three times as loud as normal for 1 minute.
+- You cause flames to flicker, brighten, dim, or change color for 1 minute.
+- You cause harmless tremors in the ground for 1 minute.
+- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+- You instantaneously cause an unlocked door or window to fly open or slam shut.
+- You alter the appearance of your eyes for 1 minute.
+
+If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+
 ### Thunderwave
 *1st-level evocation*
 ___
